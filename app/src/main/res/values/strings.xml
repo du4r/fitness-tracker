@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Fitness tracker</string>
+    <string name="imc_label">IMC</string>
+    <string name="imc_desc">IMC é a sigla para indice de massa corporal que serve para avaliar o peso do individuo em relacao a sua altura e assim indicar se esta dentro do peso ideal, acima ou abaixo do peso desejado/n/n Preencha os campos de peso e altura para descobrir o seu IMC</string>
+    <string name="tmb_desc">TMB é o calculo para descobrir a quantidade calorica que o corpo necessita com base no seu estilo de vida </string>
+    <string name="weight">Peso(Kg)</string>
+    <string name="height">Altura(Cm)</string>
+    <string name="btn_calc_txt">Calcular</string>
+
+
+    <string name="imc_severely_low_weight">Severamente abaixo do peso</string>
+    <string name="imc_very_low_weight">Muito abaixo do peso</string>
+    <string name="imc_low_weight">Abaixo do peso</string>
+    <string name="imc_normal_weight">Normal</string>
+    <string name="imc_high_weight">Acima do peso</string>
+    <string name="imc_so_high_weight">Moderadamente obeso</string>
+    <string name="imc_severely_high_weight">Severamente obeso</string>
+    <string name="imc_extreme_weight">Extremamente obeso</string>
+
+    <string name="imc_response">Seu IMC é: %1$.2f</string>
+    <string name="list_response">resultado: %1$.2f, data: %2$s</string>
+    <string name="save">Salvar</string>
+    <string name="saved">Registro salvo com sucesso!!!</string>
+    <string name="hystory">historico</string>
+    <string name="tmb_label">tmb</string>
+    <string name="title_activity_tmb">TmbActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="age">Idade</string>
+</resources>
